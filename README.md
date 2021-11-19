@@ -1,17 +1,16 @@
-# Hi there 👋
+# Nice to meet you 💖
 
-## Welcome to my Github
+<b>Welcome to my Github</b>
 
+<hr>
 
+😘 Wechat：woaiwo_qaq
 
-Wechat：woaiwo_qaq
+📞 mobile phone：13950267137
 
-mobile phone：13950267137
+💌 E-mail：894184919@qq.com
 
-E-mail：894184919@qq.com
-
-gitee: https://gitee.com/qaq_czm
-
+📌 Gitee: https://gitee.com/qaq_czm
 
 
 
@@ -20,13 +19,14 @@ gitee: https://gitee.com/qaq_czm
 - 💼 &nbsp; 但是你的到来会使这里变得蓬荜生辉。<br>
 - ☕ &nbsp; 既然来了，就是你我有缘，联系我交朋友。 <br>
 
+
 <!-- ![unswervingly's github stats](https://github-readme-stats.vercel.app/api?username=unswervingly&hide=[%22issues%22]&show_icons=true)  -->
 
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=unswervingly)  -->
 
 <p>
-<img align="left" width="50%" src="https://github-readme-stats.vercel.app/api?username=unswervingly&hide=[%22issues%22]&show_icons=true" />
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=unswervingly&hide=[%22issues%22]&show_icons=true" />
 
-<img align="left" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=unswervingly&layout=compact&hide=glsl" />
+<img align="right" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=unswervingly&layout=compact&hide=glsl" />
 </p>
 
