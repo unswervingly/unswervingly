@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 Welcome to my Github
 <hr>
 
@@ -11,9 +11,8 @@ E-mail：894184919@qq.com
 gitee: https://gitee.com/qaq_czm
 
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
-​
-- 🔭 &nbsp; 大家好。<br>
+
+
 - 🤔 &nbsp; 非常欢迎你来访问我的Github。<br>
 - 🎓 &nbsp; 尽管这里可能并没有你需要的项目。<br>
 - 💼 &nbsp; 但是你的到来会使这里变得蓬荜生辉。<br>
@@ -28,5 +27,6 @@ gitee: https://gitee.com/qaq_czm
 <img align="right" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=unswervingly&layout=compact&hide=glsl" />
 </p>
 
-
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
+​
 
