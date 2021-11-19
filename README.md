@@ -20,7 +20,6 @@ gitee: https://gitee.com/qaq_czm
 <img align="right" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=unswervingly&layout=compact&hide=glsl" />
 </p>
 
-<hr>
 
 --- 
 ### 致谢
