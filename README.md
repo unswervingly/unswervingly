@@ -22,9 +22,9 @@ gitee: https://gitee.com/qaq_czm
 
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=unswervingly)  -->
 
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=unswervingly&hide=[%22issues%22]&show_icons=true" /><br>
-<img align="right" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=unswervingly&layout=compact&hide=glsl" />
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=unswervingly&hide=[%22issues%22]&show_icons=true" />
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=unswervingly&layout=compact&hide=glsl" />
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
-​
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="50%"/>
+
 
