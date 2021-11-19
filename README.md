@@ -31,3 +31,6 @@ gitee: https://gitee.com/qaq_czm
 </p>
 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="47%"/>
+<p align = "center" >
+  <img src = "https://komarev.com/ghpvc/?username=wangscaler" >
+</p>
