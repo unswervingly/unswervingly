@@ -2,7 +2,7 @@
 
 ## Welcome to my Github
 
-<hr>
+
 
 Wechat：woaiwo_qaq
 
