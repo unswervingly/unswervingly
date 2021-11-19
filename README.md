@@ -24,7 +24,5 @@ gitee: https://gitee.com/qaq_czm
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=unswervingly&hide=[%22issues%22]&show_icons=true" />
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="50%"/>
-
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=unswervingly&layout=compact&hide=glsl" />
 
