@@ -6,12 +6,13 @@
 
 😘 Wechat：woaiwo_qaq
 
-📞 mobile phone：13950267137
+📞 mobile：phone：13950267137
 
 💌 E-mail：894184919@qq.com
 
-📌 Gitee: https://gitee.com/qaq_czm
+🎓 Blog：https://blog.csdn.net/weixin_60505953
 
+📌 Gitee: https://gitee.com/qaq_czm
 
 
 - 🤔 &nbsp; 非常欢迎你来访问我的Github。<br>
