@@ -6,7 +6,7 @@
 
 😘 Wechat：woaiwo_qaq
 
-📞 mobile：phone：13950267137
+📞 phone：13950267137
 
 💌 E-mail：894184919@qq.com
 
